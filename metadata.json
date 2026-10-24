@@ -1,0 +1,10 @@
+{
+  "name": "Remix Bilal King - JARVIS AI Assistant",
+  "description": "Futuristic JARVIS-style personal AI assistant for mobile with continuous hands-free listening, natural female voice, Roman Urdu / Hinglish script, and smart daily tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
